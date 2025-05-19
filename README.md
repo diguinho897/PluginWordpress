@@ -124,6 +124,3 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Para reportar bugs ou sugerir melhorias, por favor abra uma issue no GitHub.
 
----
-
-Desenvolvido com ❤️ para a comunidade WordPress 
