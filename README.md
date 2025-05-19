@@ -19,7 +19,20 @@ Um plugin WordPress que permite buscar e importar livros da API Google Books, cr
 
 ## 🔧 Instalação
 
-1. Faça o download do plugin
+### Via GitHub
+
+1. Navegue até a pasta `wp-content/plugins` do seu WordPress
+2. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/catalogo-livros.git
+   ```
+3. Acesse o painel administrativo do WordPress
+4. Vá em "Plugins" > "Plugins Instalados"
+5. Procure por "Catálogo de Livros" e clique em "Ativar"
+
+### Via Upload Manual
+
+1. Faça o download do plugin (botão "Code" > "Download ZIP")
 2. Acesse o painel administrativo do WordPress
 3. Vá em "Plugins" > "Adicionar Novo" > "Enviar Plugin"
 4. Selecione o arquivo ZIP do plugin
@@ -101,6 +114,10 @@ Os campos personalizados são registrados automaticamente, mas podem ser modific
 - URLs são validadas
 - Dados da API são escapados
 - Verificações de permissões implementadas
+  
+![Tela do painel do plugin](printPlugin1.jpg)
+![Tela do painel do plugin](printPlugin2.jpg)
+![Tela do painel do plugin](printPlugin3.jpg)
 
 ## 🤝 Contribuindo
 
