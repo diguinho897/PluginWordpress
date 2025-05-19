@@ -1,0 +1,18 @@
+.catalogo-livros-lista {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.catalogo-livro-item {
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px #0001;
+    padding: 20px;
+    width: 320px;
+    min-height: 220px;
+}
+.catalogo-livro-item img {
+    border-radius: 4px;
+    margin-bottom: 10px;
+} 
